@@ -1,5 +1,3 @@
-# CICDPIPE-HTML
-
 This project demonstrates a CI-CD pipeline using Bash, Python, and cron jobs. It automatically deploys code updates from a GitHub repository to an Nginx server.
 
 Project Overview
